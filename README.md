@@ -56,7 +56,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 gt clone https://github.com/epultzy/epulbot
-cd hitori
+cd epulbot
 npm install
 ```
 [ RECOMMENDED INSTALL ON TERMUX ]
