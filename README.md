@@ -31,7 +31,7 @@ System dependencies (handled automatically by `install.sh`):
 ## 🚀 Installation
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/nazedev/epulbot
+git clone https://github.com/epultzy/epulbot
 cd epulbot
 ```
 ---
@@ -55,7 +55,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clone https://github.com/nazedev/hitori
+gt clone https://github.com/epultzy/epulbot
 cd hitori
 npm install
 ```
