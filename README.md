@@ -55,7 +55,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-gt clone https://github.com/epultzy/epulbot
+git clone https://github.com/epultzy/epulbot
 cd epulbot
 npm install
 ```
