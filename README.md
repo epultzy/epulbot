@@ -31,8 +31,8 @@ System dependencies (handled automatically by `install.sh`):
 ## 🚀 Installation
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/nazedev/hitori
-cd hitori
+git clone https://github.com/nazedev/epulbot
+cd epulbot
 ```
 ---
 ### 2️⃣ Automatic Installation (Recommended)
